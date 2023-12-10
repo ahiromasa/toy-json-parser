@@ -1,0 +1,11 @@
+cabal-version: 2.4
+name:          toy-json-parser
+version:       0.1.0.0
+author:        ahiromasa
+maintainer:    akt.hrms@gmail.com
+
+executable toy-json-parser
+  main-is:          Main.hs
+  build-depends:    base ^>=4.17.2.0
+  hs-source-dirs:   app
+  default-language: Haskell2010

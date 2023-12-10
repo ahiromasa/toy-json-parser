@@ -1,0 +1,8 @@
+{
+  "null": null,
+  "bool": false,
+  "number": 123,
+  "string": "string",
+  "array": [1, 2, [3, 4]],
+  "object": { "nested_object": true }
+}
